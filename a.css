@@ -6,39 +6,50 @@ body{
 }
   
 header{
+    padding: 1%;
+    text-decoration: none;
     display: flex;
     position: fixed;
-    top: 0;
-    left: 0;
+    align-items: center;
+    justify-content: space-between;
     width: 100%;
     height: 10%;
     background-color: rgb(80, 128, 142);
     border-bottom: 1px solid #ccc;
-    #menu{
+    section{
         display: flex;
+        padding: 0%;
+        display: flex;
+    }
+    li{
+        padding: 3%;
+        list-style: none;
     }
 }
 
 
 aside{
+    align-items: center;
+    justify-content: center;
+    font-size: 135%;
     position: fixed;
-    top: 10%;
+    top: 14.2%;
     left: 0;
     width: 28%;
     height: 100%;
+    color: rgb(80, 128, 142);
     background-color: rgb(163, 201, 168);
     border-right: 1px solid #ccc;
+    a{
+        color: rgb(80, 128, 142);
+    }
 }
   
 #publicacoes{
     margin-left: 28%;
-    padding-top: 5%;
+    padding-top: 6%;
 }
   
-a{
-    color: rgb(221, 216, 196);
-}
-
 div{
     margin-bottom: 20px;
     background-color: rgb(105, 162, 151);
