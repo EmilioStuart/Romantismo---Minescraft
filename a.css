@@ -125,6 +125,18 @@ aside{
             margin-bottom: 1.5%;
         }
     }
+    #post6{
+        #RM{
+            float: left;
+            margin-right: 1.5%;
+            margin-bottom: 1.5%;
+            margin-top: 1.5%;
+            width: 50%;
+        }
+        h3{
+            margin: 2%;
+        } 
+    }
 }
 
 
@@ -159,4 +171,3 @@ aside{
         text-decoration: none;
     }
 }
-
