@@ -59,6 +59,7 @@ aside{
 }
 
 #P{
+    font-size: 110%;
     color: rgb(81, 59, 86);
     margin-left: 25%;
     padding-top: 6%;
@@ -83,21 +84,49 @@ aside{
             margin: 0%;
         }
     }
-    .ilustracoes{
-        float: left;
-        margin-right: 4%;
-    }
     p{
         margin: 0%;
     }
-    #i7{
-        width: 20%;
-        height: 15%;
+    #HP{
+        margin-right: 2% ;
+        width: 55%;
+        float: left;
     }
-    .textos{
-        font-size: 110%;
+    #CC{
+        float: left;
+        width: 45%;
+        margin-right: 2%;
+    }
+    #CR{
+        float: left;
+        margin-right: 2%;
+        width: 20%;
+    }
+    #post14{
+        h{
+            margin: 1%;
+        }
+        #JA{
+            float: left;
+            margin-right: 2%;
+            width: 35%;
+        }
+        #JF{
+            margin-left: 2%;
+            float: right;
+            width: 30%;
+        }
+        #CA{
+            float: left;
+            margin-right: 2%;
+            width: 28%;
+        }
+        #excecao{
+            margin-bottom: 1.5%;
+        }
     }
 }
+
 
 #infos{
     display: flex;
@@ -130,3 +159,4 @@ aside{
         text-decoration: none;
     }
 }
+
