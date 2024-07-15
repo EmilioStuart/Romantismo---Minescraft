@@ -87,10 +87,35 @@ aside{
     p{
         margin: 0%;
     }
+    #FHD{
+        float: right;
+        width: 35%;
+        margin-top: 2%;
+    }
     #HP{
         margin-right: 2% ;
         width: 55%;
         float: left;
+    }
+    #RNB{
+        margin-left: 2%;
+        margin-top: 1.5%;
+        width: 55%;
+        float: right;
+    }
+    #C1{
+        float: right;
+        width: 18%;
+        margin-left: 5%; 
+    }
+    #AAB{
+        width: 40%;
+        float: right;
+    }
+    #C2{
+        float: right;
+        width: 19%;
+        margin-left: 5%; 
     }
     #CC{
         float: left;
