@@ -38,6 +38,7 @@ header{
 }
 
 aside{
+    padding-top: 5%;
     align-items: center;
     justify-content: center;
     position: fixed;
